@@ -1,0 +1,26 @@
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+    background: lightgray
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Passion One', cursive;
+    font-size: 70PX;
+    letter-spacing: 5px;
+}
+
+#animalButtons {
+    margin-top: 15px;
+}
+
+form {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 500px;
+}
+
